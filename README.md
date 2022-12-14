@@ -1,12 +1,14 @@
 # 💫 About Me:
 
-👋 Hi i'm Hugo!
+👋 Hi i'm Hugo
 <br />
-🔭 I’m currently working on building a home server!
+🔭 I’m currently working on building a home server
 <br />
 🌱 I’m currently learning Rust and C++
 <br />
 🎮 Play my game [Arcade Classics](https://arcade-classics.github.io/install)
+<br />
+🖥 I use arch btw
 
 # 💻 My Tech Stack:
 
